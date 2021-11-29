@@ -6,6 +6,9 @@ A new Flutter application.
 
 This project is a starting point for a Flutter application.
 
+![Screen Shot 2019-09-12 at 12 03 50 PM](https://github.com/sinyozz/skateshop/blob/master/assets/skate.png)
+
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
